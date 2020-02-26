@@ -1,4 +1,5 @@
 # Co_Project
+# SHOULD BE CHECKED BY THE FACULTY
 we created 2 lists nameky reg,mem each allocated as registers and memory respectively,as we are maping a mips archetecture we took 32 registers, and a memory size if 4096 bytes as the lists are of integer typeas we defined
 we defined a function funchk, to read each line and call the function to be executed,another function called linechk reads the list elemnts which we get from funchk and allocates the register
 
